@@ -37,6 +37,7 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\sprite19</sprite>
     <sprite>sprites\spr_burger</sprite>
+    <sprite>sprites\spr_keydoor</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -72,6 +73,9 @@
     <object>objects\obj_start</object>
     <object>objects\obj_iwall</object>
     <object>objects\obj_burger</object>
+    <object>objects\obj_redkey</object>
+    <object>objects\obj_greykey</object>
+    <object>objects\obj_keydoor</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
@@ -82,6 +86,7 @@
     <room>rooms\Level2</room>
     <room>rooms\Level3</room>
     <room>rooms\Level4</room>
+    <room>rooms\Level5</room>
     <room>rooms\End</room>
   </rooms>
   <help>

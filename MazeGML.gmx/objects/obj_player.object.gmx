@@ -33,6 +33,9 @@ SilverKey= false;
 CooperKey = false;
 BlackKey = false;
 
+
+
+
 </string>
           </argument>
         </arguments>
@@ -57,28 +60,28 @@ BlackKey = false;
             <kind>1</kind>
             <string>/// Movimiento del Jugador
 
-if (!place_meeting(x - velocidad, y, obj_wall)) &amp;&amp; (!place_meeting(x - velocidad, y, obj_lock)) &amp;&amp; (!place_meeting(x - velocidad, y, obj_door))
+if (!place_meeting(x - velocidad, y, obj_wall)) &amp;&amp; (!place_meeting(x - velocidad, y, obj_lock)) &amp;&amp; (!place_meeting(x - velocidad, y, obj_door)) &amp;&amp; (!place_meeting(x - velocidad, y, obj_keydoor))
 {
     if (keyboard_check(vk_left)) 
     {
         x = x - velocidad; 
     }
 } 
-if (!place_meeting(x + velocidad, y, obj_wall)) &amp;&amp; (!place_meeting(x + velocidad, y, obj_lock)) &amp;&amp; (!place_meeting(x + velocidad, y, obj_door))
+if (!place_meeting(x + velocidad, y, obj_wall)) &amp;&amp; (!place_meeting(x + velocidad, y, obj_lock)) &amp;&amp; (!place_meeting(x + velocidad, y, obj_door)) &amp;&amp; (!place_meeting(x + velocidad, y, obj_keydoor))
 {
     if (keyboard_check(vk_right)) 
     {
         x = x + velocidad;
     }
 }     
-if (!place_meeting(x, y + velocidad, obj_wall)) &amp;&amp; (!place_meeting(x, y + velocidad, obj_lock)) &amp;&amp; (!place_meeting(x, y + velocidad, obj_door))
+if (!place_meeting(x, y + velocidad, obj_wall)) &amp;&amp; (!place_meeting(x, y + velocidad, obj_lock)) &amp;&amp; (!place_meeting(x, y + velocidad, obj_door)) &amp;&amp; (!place_meeting(x, y + velocidad, obj_keydoor))
 {
     if (keyboard_check(vk_down)) 
     {
         y = y + velocidad;
     }
 } 
-if (!place_meeting(x, y - velocidad, obj_wall)) &amp;&amp; (!place_meeting(x, y - velocidad, obj_lock)) &amp;&amp; (!place_meeting(x, y - velocidad, obj_door))
+if (!place_meeting(x, y - velocidad, obj_wall)) &amp;&amp; (!place_meeting(x, y - velocidad, obj_lock)) &amp;&amp; (!place_meeting(x, y - velocidad, obj_door)) &amp;&amp; (!place_meeting(x, y - velocidad, obj_keydoor))
 {
     if (keyboard_check(vk_up)) 
     {
@@ -152,6 +155,8 @@ if (place_meeting(x, y, obj_key_magic))
         MagicKey = true;
         audio_play_sound(snd_diamond, 10, false);
     }
+
+
 </string>
           </argument>
         </arguments>
@@ -289,6 +294,77 @@ if(MagicKey)
         <whoName>obj_door</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>///Gestión de Llaves 2
+
+if (place_meeting(x, y, obj_redkey))
+{
+    redkey_place = instance_place(x, y, obj_redkey);
+    with(redkey_place)
+    {
+        instance_destroy();
+    }
+    audio_play_sound(snd_diamond, 10, false);
+}
+if (place_meeting(x, y, obj_greykey))
+{
+    greykey_place = instance_place(x, y, obj_greykey);
+    with(greykey_place)
+    {
+        instance_destroy();
+    }
+    audio_play_sound(snd_diamond, 10, false);
+}
+
+</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>///Gestión de Puertas 2
+var RedKey = instance_number(obj_redkey);
+var GreyKey = instance_number(obj_greykey);
+if (RedKey = 0 &amp;&amp; GreyKey = 0)
+{
+    with(obj_keydoor)
+    {
+        instance_destroy();
+    }    
+}
+</string>
+          </argument>
+        </arguments>
       </action>
     </event>
     <event eventtype="4" ename="obj_burger">
