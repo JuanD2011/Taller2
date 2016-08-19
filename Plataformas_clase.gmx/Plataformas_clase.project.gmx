@@ -6,26 +6,50 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_player_r</sprite>
-    <sprite>sprites\spr_player_l</sprite>
-    <sprite>sprites\spr_player_puy_l</sprite>
-    <sprite>sprites\spr_player_puy_r</sprite>
-    <sprite>sprites\spr_player_pur_l</sprite>
-    <sprite>sprites\spr_player_pur_r</sprite>
+    <sprites name="Player">
+      <sprite>sprites\spr_player_r</sprite>
+      <sprite>sprites\spr_player_l</sprite>
+      <sprite>sprites\spr_player_puy_r</sprite>
+      <sprite>sprites\spr_player_pur_l</sprite>
+      <sprite>sprites\spr_player_pur_r</sprite>
+      <sprite>sprites\spr_player_jump</sprite>
+      <sprite>sprites\spr_player_sad</sprite>
+      <sprite>sprites\spr_player_puy_l</sprite>
+      <sprite>sprites\spr_player_sad_l</sprite>
+      <sprite>sprites\spr_player_jump_l</sprite>
+      <sprite>sprites\spr_player_stand</sprite>
+      <sprite>sprites\spr_player_stand_sad</sprite>
+      <sprite>sprites\spr_player_stand_jump</sprite>
+    </sprites>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_pu_run</sprite>
+    <sprite>sprites\spr_pu_jump</sprite>
+    <sprite>sprites\spr_enemy</sprite>
+    <sprite>sprites\spr_ninja__star</sprite>
+    <sprite>sprites\spr_bone</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\bg_start</background>
+    <background>background\bg_game_over</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_pu_run</object>
+    <object>objects\obj_pu_jump</object>
+    <object>objects\obj_enemy</object>
+    <object>objects\obj_start</object>
+    <object>objects\obj_game_over</object>
+    <object>objects\obj_ninja_star</object>
+    <object>objects\obj_bone</object>
+    <object>objects\obj_ninja_star_l</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Start</room>
     <room>rooms\Level1</room>
+    <room>rooms\GameOver</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

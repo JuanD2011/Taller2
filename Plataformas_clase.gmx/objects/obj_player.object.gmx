@@ -37,6 +37,31 @@ jumpspeed_powerup = 9;
 
 movespeed = movespeed_normal;
 jumpspeed = jumpspeed_normal;
+
+shoot = 1;
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="2" enumb="2">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>shoot = 1;
 </string>
           </argument>
         </arguments>
@@ -84,7 +109,7 @@ jumpspeed = jumpspeed_normal;
           <argument>
             <kind>1</kind>
             <string>jumpspeed = jumpspeed_normal;
-sprite_index = spr_player;
+
 
 </string>
           </argument>
@@ -114,15 +139,21 @@ sprite_index = spr_player;
 
 key_right = keyboard_check(vk_right);
 key_left = keyboard_check(vk_left);
-key_space = keyboard_check_pressed(vk_space);
+key_up = keyboard_check_pressed(vk_up);
 
 //Operaciones con las entradas de teclado
 
 move = key_right - key_left;
 hsp = move * movespeed;
 
-if (movespeed == movespeed_normal)
+//Sprite
+
+if (movespeed == movespeed_normal) &amp;&amp; (jumpspeed == jumpspeed_normal)
 {
+    if((vsp == 0) &amp;&amp; (hsp == 0))
+    {
+        sprite_index = spr_player_stand;
+    }
     if(move)
     {
         sprite_index = spr_player_r;
@@ -131,16 +162,55 @@ if (movespeed == movespeed_normal)
     {
         sprite_index = spr_player_l;
     }
+    
+    if(-vsp) &amp;&amp; (hsp == 0)
+    {
+        sprite_index = spr_player_stand_jump;
+    }
+    if(vsp) &amp;&amp; (hsp == 0)
+    {
+        sprite_index = spr_player_stand_sad;
+    }  
+    if(-vsp) &amp;&amp; (hsp &gt; 0)
+    {
+        sprite_index = spr_player_jump;
+    }
+    if(-vsp) &amp;&amp; (hsp &lt; 0)
+    {
+        sprite_index = spr_player_jump_l;
+    }
+    if((vsp) &amp;&amp; (hsp &lt; 0))
+    {
+        sprite_index = spr_player_sad_l;
+    }
+    if((vsp) &amp;&amp; (hsp &gt; 0))
+    {
+        sprite_index = spr_player_sad;
+    }
 }
 else
 {
-    if(move)
+    if(movespeed == movespeed_powerup)
     {
-        sprite_index = spr_player_puy_r;
+        if(move)
+        {
+            sprite_index = spr_player_puy_r;
+        }
+        if(-move)
+        {
+            sprite_index = spr_player_puy_l;
+        }
     }
-    if (-move)
+    if(jumpspeed == jumpspeed_powerup)
     {
-        sprite_index = spr_player_puy_l;
+        if(move)
+        {
+            sprite_index = spr_player_pur_r
+        }
+        if(-move)
+        {
+            sprite_index = spr_player_pur_l
+        }
     }
 }
 
@@ -164,7 +234,7 @@ if (vsp &lt; 10)
 } 
 if(place_meeting(x, y + 1, obj_wall))
 {
-    vsp = key_space * -jumpspeed;
+    vsp = key_up * -jumpspeed;
 }
 
 //Colisión vertical
@@ -179,6 +249,40 @@ if(place_meeting(x, y + vsp, obj_wall))
 }
 y += vsp;
 
+</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>///Disparar
+
+if(keyboard_check(vk_space) &amp;&amp; (shoot) &amp;&amp; ((sprite_index = spr_player_r) || (sprite_index == spr_player_puy_r) || (sprite_index == spr_player_pur_r) || (sprite_index == spr_player_jump) || (sprite_index == spr_player_sad) || (sprite_index == spr_player_stand) || (sprite_index == spr_player_stand_jump) || (sprite_index == spr_player_stand_sad)))
+{
+    instance_create(x, y, obj_ninja_star);
+    shoot = 0;
+    alarm[2] = 15;
+}
+if(keyboard_check(vk_space) &amp;&amp; (shoot) &amp;&amp; ((sprite_index = spr_player_l) || (sprite_index == spr_player_puy_l) || (sprite_index == spr_player_pur_l) || (sprite_index == spr_player_jump_l) || (sprite_index == spr_player_sad_l)))
+{
+    instance_create(x, y, obj_ninja_star_l);
+    shoot = 0;
+    alarm[2] = 15;
+}
 </string>
           </argument>
         </arguments>
