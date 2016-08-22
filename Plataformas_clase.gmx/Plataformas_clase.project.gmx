@@ -25,8 +25,18 @@
     <sprite>sprites\spr_pu_run</sprite>
     <sprite>sprites\spr_pu_jump</sprite>
     <sprite>sprites\spr_enemy</sprite>
+    <sprite>sprites\spr_enemy_shooter</sprite>
     <sprite>sprites\spr_ninja__star</sprite>
     <sprite>sprites\spr_bone</sprite>
+    <sprites name="HB">
+      <sprite>sprites\spr_hb_border</sprite>
+      <sprite>sprites\spr_hb_inner</sprite>
+      <sprite>sprites\spr_hb_bg</sprite>
+    </sprites>
+    <sprite>sprites\spr_life</sprite>
+    <sprite>sprites\spr_trophy</sprite>
+    <sprite>sprites\spr_explosion</sprite>
+    <sprite>sprites\spr_spikes</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -40,11 +50,22 @@
     <object>objects\obj_pu_run</object>
     <object>objects\obj_pu_jump</object>
     <object>objects\obj_enemy</object>
+    <object>objects\obj_enemy_shooter</object>
+    <object>objects\obj_enemy_tshooter</object>
     <object>objects\obj_start</object>
     <object>objects\obj_game_over</object>
     <object>objects\obj_ninja_star</object>
     <object>objects\obj_bone</object>
+    <object>objects\obj_bone_t</object>
+    <object>objects\obj_bone_l</object>
     <object>objects\obj_ninja_star_l</object>
+    <object>objects\obj_controller</object>
+    <object>objects\obj_trophy</object>
+    <object>objects\obj_explosion</object>
+    <object>objects\obj_spikes</object>
+    <object>objects\obj_restart</object>
+    <object>objects\obj_text</object>
+    <object>objects\obj_dead</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Start</room>

@@ -99,6 +99,35 @@ if(place_meeting(x, y, obj_wall))
         </arguments>
       </action>
     </event>
+    <event eventtype="4" ename="obj_enemy_shooter">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>///Impacto
+with(other)
+{
+    instance_destroy();
+}
+instance_destroy();
+instance_create(x, y, obj_explosion);
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="4" ename="obj_enemy">
       <action>
         <libid>1</libid>
@@ -116,11 +145,13 @@ if(place_meeting(x, y, obj_wall))
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>with(other)
+            <string>///Impacto
+with(other)
 {
     instance_destroy();
 }
 instance_destroy();
+instance_create(x, y, obj_explosion);
 </string>
           </argument>
         </arguments>

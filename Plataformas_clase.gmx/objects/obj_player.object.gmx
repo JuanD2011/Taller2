@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>///Inicialización de Variables
 
-grav = 0.2;
+grav = 0.22;
 hsp = 0;
 vsp = 0;
 movespeed_normal = 4;
@@ -39,6 +39,7 @@ movespeed = movespeed_normal;
 jumpspeed = jumpspeed_normal;
 
 shoot = 1;
+
 </string>
           </argument>
         </arguments>
