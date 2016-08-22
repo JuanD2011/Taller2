@@ -121,7 +121,8 @@ if (place_meeting(x, y, obj_player))
 {
     if (obj_player.y &lt; y - 16)
     {
-        with (obj_player) vsp = -jumpspeed;       
+        with (obj_player) vsp = -jumpspeed;  
+        audio_play_sound(snd_explosion, 10, false);     
         instance_destroy();       
     }
 }
@@ -182,6 +183,8 @@ if(hsp &gt; 0) &amp;&amp; (shoot)
           <argument>
             <kind>1</kind>
             <string>health -= 10;
+audio_play_sound(snd_explosion, 10, false);
+audio_play_sound(snd_pain, 10, false);
 instance_destroy();
 </string>
           </argument>

@@ -275,12 +275,14 @@ y += vsp;
 if(keyboard_check(vk_space) &amp;&amp; (shoot) &amp;&amp; ((sprite_index = spr_player_r) || (sprite_index == spr_player_puy_r) || (sprite_index == spr_player_pur_r) || (sprite_index == spr_player_jump) || (sprite_index == spr_player_sad) || (sprite_index == spr_player_stand) || (sprite_index == spr_player_stand_jump) || (sprite_index == spr_player_stand_sad)))
 {
     instance_create(x, y, obj_ninja_star);
+    audio_play_sound(snd_throw, 10, false);
     shoot = 0;
     alarm[2] = 15;
 }
 if(keyboard_check(vk_space) &amp;&amp; (shoot) &amp;&amp; ((sprite_index = spr_player_l) || (sprite_index == spr_player_puy_l) || (sprite_index == spr_player_pur_l) || (sprite_index == spr_player_jump_l) || (sprite_index == spr_player_sad_l)))
 {
     instance_create(x, y, obj_ninja_star_l);
+    audio_play_sound(snd_throw, 10, false);
     shoot = 0;
     alarm[2] = 15;
 }

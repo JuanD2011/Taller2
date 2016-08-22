@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>with(obj_player)
+            <string>audio_play_sound(snd_pur, 10, false);
+with(obj_player)
 {
     movespeed = movespeed_powerup;
     alarm[1] = 300;

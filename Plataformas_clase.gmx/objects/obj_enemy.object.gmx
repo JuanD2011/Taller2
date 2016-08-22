@@ -97,6 +97,7 @@ if (place_meeting(x, y, obj_player))
     {
         with (obj_player) vsp = -jumpspeed;       
         instance_destroy();
+        audio_play_sound(snd_explosion, 10, false);
         instance_create(x, y, obj_explosion);       
     }
 }
@@ -124,6 +125,8 @@ if (place_meeting(x, y, obj_player))
             <kind>1</kind>
             <string>health -= 10;
 instance_create(x, y, obj_explosion);
+audio_play_sound(snd_explosion, 10, false);
+audio_play_sound(snd_pain, 10, false);
 instance_destroy();
 
 </string>

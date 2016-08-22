@@ -29,6 +29,7 @@
 {
     instance_destroy();
     lives -= 1;
+    audio_play_sound(snd_llive, 10, false);
     instance_create(80, 416, obj_player);
 }
 

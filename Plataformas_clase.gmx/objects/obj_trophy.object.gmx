@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>room_goto_next();
+            <string>audio_play_sound(snd_success, 10, false);
+room_goto_next();
 </string>
           </argument>
         </arguments>

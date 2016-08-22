@@ -51,6 +51,7 @@
             <kind>1</kind>
             <string>health -= 10;
 instance_destroy();
+audio_play_sound(snd_pain, 10, false);
 </string>
           </argument>
         </arguments>
