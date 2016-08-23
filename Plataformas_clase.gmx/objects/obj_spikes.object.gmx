@@ -49,6 +49,8 @@
           <argument>
             <kind>1</kind>
             <string>damage = 1;
+
+
 </string>
           </argument>
         </arguments>
@@ -73,11 +75,10 @@
             <kind>1</kind>
             <string>if(place_meeting(x, y, obj_player)) &amp;&amp; (damage)
 {
-    audio_play_sound(snd_pain, 10, false);
-    health -= 0.25;
-    alarm[0] = 6000;
-    
+    health -= 0.25;    
+    alarm[0] = 30;   
 }
+
 </string>
           </argument>
         </arguments>

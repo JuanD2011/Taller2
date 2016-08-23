@@ -46,7 +46,6 @@
     <sprite>sprites\spr_trophy</sprite>
     <sprite>sprites\spr_explosion</sprite>
     <sprite>sprites\spr_spikes</sprite>
-    <sprite>sprites\sprite27</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
