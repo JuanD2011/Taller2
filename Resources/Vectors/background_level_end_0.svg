@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="1136"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ekr_zw_0.svg"
+   inkscape:export-filename="F:\-JAREK-\1-gra logiczna\zadanie 8\ekran zwycięstwa0\ekran zw0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="display:inline;enable-background:new">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient15212-9">
+      <stop
+         id="stop15214-0"
+         offset="0"
+         style="stop-color:#035080;stop-opacity:1;" />
+      <stop
+         id="stop15216-5"
+         offset="1"
+         style="stop-color:#91eefe;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       r="384"
+       fy="568"
+       fx="384"
+       cy="568"
+       cx="384"
+       gradientTransform="matrix(2.5997024,0.03720237,-0.03596358,2.5131355,-593.8584,-873.74669)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient15316"
+       xlink:href="#linearGradient15212-9"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7643-7-0-2-7"
+       id="radialGradient8599-7-2-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.60086687,3.6687617e-8,-5.8204568e-8,0.19922835,1757.9099,-3926.9719)"
+       cx="-1983.8674"
+       cy="-3400.1096"
+       fx="-1983.8674"
+       fy="-3400.1096"
+       r="497.49411" />
+    <linearGradient
+       id="linearGradient7643-7-0-2-7">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7645-7-40-1-2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7647-3-5-0-0" />
+    </linearGradient>
+    <filter
+       id="filter16526"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix16528"
+         type="saturate"
+         values="0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-129.10271"
+     inkscape:cy="541.63362"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer18"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="tło1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#radialGradient15316);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4489-3-3"
+       width="768"
+       height="1136"
+       x="0"
+       y="0"
+       inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer23"
+     inkscape:label="paski1"
+     style="display:inline">
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 0,506.93745 0,585.8437 359.52306,525.2084 z"
+       id="path4504-0-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 359.50619,526.12557 166.29191,1136 l 148.02282,0 z"
+       id="path4522-4-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 768.6875,107.0937 360.86971,524.29394 768.6875,273.81245 z"
+       id="path4516-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 768.6875,349.8437 415.78125,511.49995 768.6875,444.1562 l 0,-94.3125 z"
+       id="path4506-2-2-0" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 83.96875,-0.7188 340.53944,468.70626 234.9375,-0.7188 z"
+       id="path4510-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 315.28125,546.31245 0,638.11019 0,746.70394 z"
+       id="path4504-01-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="m 0,335.4687 0,89.4375 310.34688,81.74013 z"
+       id="path4506-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 0,60.3437 0,244.0312 359.21738,525.20998 z"
+       id="path4508-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 328.9375,-0.7188 359.52294,525.84661 458.21875,-0.7188 z"
+       id="path4512-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 562.0625,-0.7188 394.55498,462.02327 733.78125,-0.7188 z"
+       id="path4514-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="m 401.62903,556.48517 367.05847,305.23353 0,-143.09375 z"
+       id="path4518-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 359.4729,525.19207 667.28125,1136 l 101.40625,0 0,-139.7188 z"
+       id="path4520-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 369.93189,586.47597 409.2186,1136 l 147.58137,0 z"
+       id="path4522-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 359.17579,525.68144 0,825.33607 0,959.16843 z"
+       id="path4524-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 768.6875,525.93745 359.14117,525.16402 768.6875,601.99995 z"
+       id="path4504-0-5-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#80b3ff;stroke:none;display:inline"
+       d="M 328.875,585.2812 0,1068.4062 0,1136 l 88.375,0 240.5,-550.7188 z"
+       id="path4524-4-6-9" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="gwiazdka 3_1_1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:type="star"
+       style="fill:#5555ff;fill-opacity:1;fill-rule:nonzero;stroke:#d0d3ff;stroke-width:36.44142151;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path4562-9-5-2"
+       sodipodi:sides="10"
+       sodipodi:cx="993.99011"
+       sodipodi:cy="390.50742"
+       sodipodi:r1="639.7002"
+       sodipodi:r2="383.82013"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.0995574"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1446.3265,842.84376 1168.2408,732.49365 1094.0613,1022.3318 933.94743,769.60208 703.5723,960.48446 722.5883,661.90924 424.01307,680.92523 614.89545,450.55012 362.16569,290.43626 652.00387,216.25673 541.65376,-61.828929 819.73941,48.521181 893.91895,-241.31701 1054.0328,11.412747 l 230.3751,-190.882377 -19.016,298.57522 298.5753,-19.01599 -190.8824,230.37511 252.7297,160.11386 -289.8381,74.17953 z"
+       inkscape:transform-center-x="3.1139623"
+       inkscape:transform-center-y="3.9762558"
+       transform="matrix(0.35322282,0.27615848,-0.27615848,0.35322282,140.30686,241.57698)"
+       inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

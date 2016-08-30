@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="1136"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="background_level_end_3.svg"
+   inkscape:export-filename="F:\-JAREK-\1-gra logiczna\zadanie 8\ekran zwycięstwa0\ekran zw0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="display:inline;enable-background:new">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter12230-2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.5977928"
+         id="feGaussianBlur12232-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter12242-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.2347419"
+         id="feGaussianBlur12244-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter12262-1">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.9808202"
+         id="feGaussianBlur12264-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4554-3"
+       x="-0.10341707"
+       width="1.2068341"
+       y="-0.070372559"
+       height="1.140745">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="20.022844"
+         id="feGaussianBlur4556-3" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7651-4-6-8"
+       id="radialGradient8597-2-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.60026357,1.6783415e-8,-2.6626723e-8,0.19902823,1756.7072,-3927.6509)"
+       cx="-1983.8573"
+       cy="-3400.1167"
+       fx="-1983.8573"
+       fy="-3400.1167"
+       r="497.99411" />
+    <linearGradient
+       id="linearGradient7651-4-6-8">
+      <stop
+         style="stop-color:#ffdfcb;stop-opacity:1;"
+         offset="0"
+         id="stop7653-7-5-8" />
+      <stop
+         id="stop7661-5-8-6"
+         offset="0.41777647"
+         style="stop-color:#fad2b9;stop-opacity:1;" />
+      <stop
+         id="stop7659-7-8-6"
+         offset="0.65525585"
+         style="stop-color:#f5c5a7;stop-opacity:1;" />
+      <stop
+         style="stop-color:#eb998f;stop-opacity:1;"
+         offset="1"
+         id="stop7655-3-6-1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7643-7-0-2"
+       id="radialGradient8599-7-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.60086687,3.6687617e-8,-5.8204568e-8,0.19922835,1757.9099,-3926.9719)"
+       cx="-1983.8674"
+       cy="-3400.1096"
+       fx="-1983.8674"
+       fy="-3400.1096"
+       r="497.49411" />
+    <linearGradient
+       id="linearGradient7643-7-0-2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7645-7-40-1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7647-3-5-0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7719-2-4-0-0-6-5-4"
+       id="radialGradient8237-3-32-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0.01854379,0.74588576,3862.295,-3194.333)"
+       cx="-2030.8234"
+       cy="-3678.718"
+       fx="-2030.8234"
+       fy="-3678.718"
+       r="67.357597" />
+    <linearGradient
+       id="linearGradient7719-2-4-0-0-6-5-4">
+      <stop
+         style="stop-color:#ff9600;stop-opacity:1;"
+         offset="0"
+         id="stop7721-3-2-7-2-9-19-0" />
+      <stop
+         id="stop7729-3-5-6-2-4-0-9"
+         offset="0.43513727"
+         style="stop-color:#e6880f;stop-opacity:1;" />
+      <stop
+         id="stop7727-3-3-2-7-4-06-6"
+         offset="0.70365101"
+         style="stop-color:#ffbd00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffe400;stop-opacity:1;"
+         offset="1"
+         id="stop7723-5-2-2-4-6-5-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4954-1">
+      <stop
+         style="stop-color:#430054;stop-opacity:1"
+         offset="0"
+         id="stop4956-0" />
+      <stop
+         style="stop-color:#cb55e7;stop-opacity:1;"
+         offset="1"
+         id="stop4958-4" />
+    </linearGradient>
+    <radialGradient
+       r="384"
+       fy="568"
+       fx="384"
+       cy="568"
+       cx="384"
+       gradientTransform="matrix(2.5997024,0.03720237,-0.03596358,2.5131355,-593.8584,-873.74669)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient15072"
+       xlink:href="#linearGradient4954-1"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-814.6861"
+     inkscape:cy="407.3141"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer14"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="tło3"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#radialGradient15072);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect4489"
+       width="768"
+       height="1136"
+       x="0"
+       y="0"
+       inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="paski3"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 0,506.93745 0,585.8437 359.52306,525.2084 z"
+       id="path4504-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 359.50619,526.12557 166.29191,1136 l 148.02282,0 z"
+       id="path4522-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 768.6875,107.0937 360.86971,524.29394 768.6875,273.81245 z"
+       id="path4516"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 768.6875,349.8437 415.78125,511.49995 768.6875,444.1562 l 0,-94.3125 z"
+       id="path4506-2" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 83.96875,-0.7188 340.53944,468.70626 234.9375,-0.7188 z"
+       id="path4510"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 315.28125,546.31245 0,638.11019 0,746.70394 z"
+       id="path4504"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="m 0,335.4687 0,89.4375 310.34688,81.74013 z"
+       id="path4506"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 0,60.3437 0,244.0312 359.21738,525.20998 z"
+       id="path4508"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 328.9375,-0.7188 359.52294,525.84661 458.21875,-0.7188 z"
+       id="path4512"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 562.0625,-0.7188 394.55498,462.02327 733.78125,-0.7188 z"
+       id="path4514"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="m 401.62903,556.48517 367.05847,305.23353 0,-143.09375 z"
+       id="path4518"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 359.4729,525.19207 667.28125,1136 l 101.40625,0 0,-139.7188 z"
+       id="path4520"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 369.93189,586.47597 409.2186,1136 l 147.58137,0 z"
+       id="path4522"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 359.17579,525.68144 0,825.33607 0,959.16843 z"
+       id="path4524"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 768.6875,525.93745 359.14117,525.16402 768.6875,601.99995 z"
+       id="path4504-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aa00d4;stroke:none;display:inline"
+       d="M 328.875,585.2812 0,1068.4062 0,1136 l 88.375,0 240.5,-550.7188 z"
+       id="path4524-4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="kręgi3"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g13072"
+       transform="translate(2.0203051,82.83251)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+         transform="matrix(1.123858,0,0,0.80519541,-46.53373,76.033182)"
+         d="m 616.19305,592.5379 a 232.33508,341.43155 0 1 1 -464.67016,0 232.33508,341.43155 0 1 1 464.67016,0 z"
+         sodipodi:ry="341.43155"
+         sodipodi:rx="232.33508"
+         sodipodi:cy="592.5379"
+         sodipodi:cx="383.85797"
+         id="path4502"
+         style="opacity:0.69961979;fill:#e580ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter4554-3)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+         inkscape:connector-curvature="0"
+         id="path4502-8-5"
+         d="m 379.53768,137.06251 c 118.41884,-0.0352 232.89052,62.7554 301.10392,158.5309 91.27219,127.9843 101.84938,308.92249 25.26012,446.14128 C 653.90899,835.75599 562.55524,909.52046 456.81149,932.77944 340.33846,958.38555 212.02432,923.36926 126.72235,839.87018 24.95054,743.54439 -21.52251,592.88978 7.6001802,455.59376 31.2131,336.41642 109.23372,226.98127 219.72518,174.06251 c 49.44171,-24.28138 104.48965,-37.80059 159.8125,-37 z m 3.8125,18.875 c -134.0409,0.6867 -261.97433,84.4413 -319.25,204.84375 -61.0836498,126.52171 -48.69283,287.12092 35.875,400.0625 65.52355,88.70574 173.37548,146.46707 284.59375,146.375 135.30802,0.30362 265.85596,-84.15907 322.09375,-206.78125 57.36696,-119.11874 50.2444,-268.52706 -23.07396,-379.02742 -55.64434,-85.54411 -147.84589,-148.49375 -249.99877,-161.88681 -16.58281,-2.43944 -33.43693,-3.6417 -50.23977,-3.58577 z"
+         style="opacity:0.6;fill:#e580ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter12262-1)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+         inkscape:connector-curvature="0"
+         id="path4502-8-5-1"
+         d="M 394.07474,57.07042 C 247.80165,57.026991 106.40418,134.58703 22.14577,252.89065 -90.595294,410.97917 -103.66044,634.47727 -9.0559898,803.97239 55.16636,920.10921 168.00815,1011.2244 298.62473,1039.9543 442.49432,1071.5834 600.99026,1028.3306 706.3568,925.19111 832.06716,806.20777 889.47149,620.11648 853.49869,450.52596 824.33153,303.31597 727.95906,168.1397 591.47801,102.77349 530.40673,72.780683 462.41052,56.081519 394.07474,57.07042 z m -4.70927,23.31474 c 165.56974,0.84823 323.59542,104.30343 394.34335,253.02669 75.45167,156.28189 60.14626,354.65694 -44.31345,494.16441 C 658.45951,937.14719 525.23887,1008.495 387.86005,1008.3813 220.72514,1008.7562 59.46998,904.4265 -9.9959498,752.96137 -80.856651,605.82375 -72.058739,421.27192 18.50543,284.77988 87.23831,179.11425 201.12732,101.35773 327.3084,84.81436 c 20.48339,-3.01324 41.3019,-4.49828 62.05707,-4.4292 z"
+         style="opacity:0.5;fill:#e580ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter12242-5)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+         inkscape:connector-curvature="0"
+         id="path4502-8-5-1-7"
+         d="M 408.75408,-6.5707606 C 578.5196,-6.6211646 742.62644,83.39553 840.41732,220.6995 971.26529,404.17808 986.42879,663.57145 876.63029,860.28861 802.09339,995.0778 671.12847,1100.8268 519.53399,1134.1708 352.558,1170.8796 168.60657,1120.6803 46.31748,1000.9758 -99.582813,862.883 -166.20669,646.90422 -124.45634,450.07634 -90.604793,279.22346 21.24574,122.33698 179.64654,46.472522 250.52627,11.662673 329.44313,-7.7184856 408.75408,-6.5707606 z m 5.46561,27.0592386 C 222.05836,21.47294 38.65273,141.54374 -43.4578,314.15292 -131.02747,495.53473 -113.26395,725.77011 7.9726902,887.68342 101.90737,1014.8521 256.52412,1097.6589 415.9669,1097.5269 609.94477,1097.9621 797.09858,976.8763 877.72119,801.08489 959.96259,630.31598 949.75169,416.12391 844.64232,257.71035 764.87048,135.07411 632.69014,44.829382 486.24354,25.629044 462.47038,22.131855 438.30828,20.408301 414.21969,20.488478 z"
+         style="opacity:0.4;fill:#e580ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter12230-2)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="gwiadka 3_1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:type="star"
+       style="fill:#eb347d;fill-opacity:1;fill-rule:nonzero;stroke:#f4a3cb;stroke-width:22.58036232;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path4562-9"
+       sodipodi:sides="10"
+       sodipodi:cx="993.99011"
+       sodipodi:cy="390.50742"
+       sodipodi:r1="639.7002"
+       sodipodi:r2="383.82013"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.0995574"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1446.3265,842.84376 1168.2408,732.49365 1094.0613,1022.3318 933.94743,769.60208 703.5723,960.48446 722.5883,661.90924 424.01307,680.92523 614.89545,450.55012 362.16569,290.43626 652.00387,216.25673 541.65376,-61.828929 819.73941,48.521181 893.91895,-241.31701 1054.0328,11.412747 l 230.3751,-190.882377 -19.016,298.57522 298.5753,-19.01599 -190.8824,230.37511 252.7297,160.11386 -289.8381,74.17953 z"
+       inkscape:transform-center-x="3.8116917"
+       inkscape:transform-center-y="4.8671831"
+       transform="matrix(0.43236761,0.33803586,-0.33803586,0.43236761,86.063038,150.13503)"
+       inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="gwiazdka3_2"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       style="stroke:#b02d00;stroke-width:2.88058162;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="g12218"
+       transform="matrix(0.69430423,0,0,0.69430423,138.36025,284.13759)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+         transform="matrix(0.84259196,0,0,0.84259196,-480.39337,194.34985)"
+         inkscape:transform-center-y="2.948687"
+         inkscape:transform-center-x="-2.9486866"
+         d="M 1446.3265,842.84376 1135.8661,625.19895 1184.3029,1001.2425 1010.5485,664.24951 878.68093,1019.7293 881.43752,640.58905 599.47493,894.06884 778.11101,559.63791 410.6476,653.04857 724.2398,439.94101 355.45702,351.88328 732.16514,308.91946 446.54666,59.566317 800.07142,196.58874 663.04901,-156.93603 912.40214,128.68245 955.36597,-248.02568 1043.4237,120.7571 1256.5313,-192.83509 1163.1206,174.6283 1497.5515,-4.0077692 1244.0717,277.9548 l 379.1403,-2.75657 -355.4798,131.86752 336.993,173.75443 -376.0435,-48.43679 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0270591"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="274.24243"
+         sodipodi:r1="639.7002"
+         sodipodi:cy="390.50742"
+         sodipodi:cx="993.99011"
+         sodipodi:sides="13"
+         id="path4562"
+         style="fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:#ffad2d;stroke-width:5.12807226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\DOKUMENTY\Nowy folder\cute\zadanie 8\tło ekran zwycięstwa\win.png"
+         transform="matrix(0.56376907,0,0,0.56376907,-202.27044,302.77946)"
+         inkscape:transform-center-y="1.9729365"
+         inkscape:transform-center-x="-1.9729142"
+         d="M 1446.3265,842.84376 1121.3999,601.26887 1184.3029,1001.2425 1008.8601,636.33768 878.68093,1019.7293 892.91382,615.08974 599.47493,894.06884 800.1229,542.39269 410.6476,653.04857 751.74461,434.90056 355.45702,351.88328 758.86185,317.2385 446.54666,59.566317 819.84414,216.36146 663.04901,-156.93603 l 257.67216,312.31519 34.6448,-403.40484 83.01723,396.28759 218.1481,-341.097 L 1145.8754,196.64019 1497.5515,-4.0077692 1218.5724,289.43111 1623.212,275.19823 1239.8204,405.3774 1604.7252,580.82018 1204.7516,517.91715 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0270591"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="246.27959"
+         sodipodi:r1="639.7002"
+         sodipodi:cy="390.50742"
+         sodipodi:cx="993.99011"
+         sodipodi:sides="13"
+         id="path4562-7"
+         style="fill:#ffb90a;fill-opacity:1;fill-rule:nonzero;stroke:#da7500;stroke-width:10.21901226;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
